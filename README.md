@@ -1,4 +1,4 @@
-##Intro
+## Intro
 
 For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment of the book reviews they were matched with an image and placed in a 3D map using an open-source visualization toolkit. It is important to note that due to the scope/timeframe of the class, the project was not completed.
 
