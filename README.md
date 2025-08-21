@@ -1,13 +1,14 @@
 ## Exploring Literary Connections Through AI, ML, and Data Visualization
 
 Authors: Allen Wu, Chelsea Bann, Adin Handler
+
 Original Project Presentation for Tufts University EM212 Applied Data Science: https://prezi.com/view/NUYGVJMI4kEhSDIYtwhz/ 
 
 ---
 
 ## Intro
 
-For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment of the book reviews they were matched with an image and placed in a 3D map using an open-source visualization toolkit. It is important to note that due to the scope/timeframe of the class, the project was not completed.
+For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment of the book reviews they were matched with an image and placed in a 3D map using an open-source visualization toolkit.  The primary dataset will focus on real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads. This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text.  It is important to note that due to the scope/timeframe of the class, the project was not completed.
 
 
 ## Problem Statement: 
@@ -57,9 +58,7 @@ Tagging:
 - For next steps, the tags need refinement for more accuracy. For example, in the first attempt, one review was clearly disappointed with the book and the LLM tagged it with “positive sentiment.” For the future, a code can be written to isolate one book review at a time, feed each individual review into our local LLM so that it can better interpret the themes, nouns, ideas, and emotional cues from the individual review. We hypothesize that isolating each quote will create a more accurate tagging index by the LLM.  
 
  
-## Dataset 
-
-The primary dataset will focus on real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads. This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text. 
+## Datasets 
 
 GOODREADS DATASET: 
 
