@@ -1,3 +1,10 @@
+## Exploring Literary Connections Through AI, ML, and Data Visualization
+
+Authors: Allen Wu, Chelsea Bann, Adin Handler
+Original Project Presentation for Tufts University EM212 Applied Data Science: https://prezi.com/view/NUYGVJMI4kEhSDIYtwhz/ 
+
+---
+
 ## Intro
 
 For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment of the book reviews they were matched with an image and placed in a 3D map using an open-source visualization toolkit. It is important to note that due to the scope/timeframe of the class, the project was not completed.
@@ -68,7 +75,18 @@ IMAGE DATASET:
 
 Undisclosed. 
 
- 
+---
 
+## Works Cited 
 
- 
+- Glen McDonald, n.d. “Every Noise at Once.” Accessed May 8, 2025. https://everynoise.com/engenremap-austindie.html. 
+
+- Google Arts & Culture. 2021. “Art Emotions Map.” Accessed May 8, 2025. https://artsexperiments.withgoogle.com/art-emotions-map/. 
+
+- United Nations Environment Programme (UNEP). 2024. Artificial Intelligence (AI) end-to-end: The Environmental Impact of the Full AI Lifecycle Needs to be Comprehensively Assessed - Issue Note. https://wedocs.unep.org/20.500.11822/46288 
+
+- Wan, Mengting. 2018. Goodreads Datasets: Code Samples. GitHub. https://github.com/MengtingWan/goodreads. 
+
+- Mengting Wan and Julian McAuley. "Item Recommendation on Monotonic Behavior Chains." Proceedings of the 12th ACM Conference on Recommender Systems (RecSys '18), 2018. https://github.com/MengtingWan/chainRec? 
+
+- Mengting Wan, Rishabh Misra, Ndapa Nakashole, and Julian McAuley. "Fine-Grained Spoiler Detection from Large-Scale Review Corpora." Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL '19), 2019. https://github.com/MengtingWan/goodreads? 
