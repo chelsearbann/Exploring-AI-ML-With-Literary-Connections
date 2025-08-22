@@ -8,7 +8,15 @@ Original Project Presentation for Tufts University EM212 Applied Data Science: h
 
 ## Intro
 
-For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment-tag, the reviews would be matched with an image and placed in a 3D map using an open-source visualization toolkit. The primary dataset contained real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads (https://www.goodreads.com/). This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text. Later, the project can expand to include other datasets. It is important to note that due to the scope/timeframe of the class, the project was not completed.
+For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment-tag, the reviews would be matched with an image (also tagged by sentiment) and placed in a 3D map using an open-source visualization toolkit. The primary dataset contained real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads (https://www.goodreads.com/). This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text. Later, the project can expand to include other datasets. It is important to note that due to the scope/timeframe of the class, the project was not completed.
+
+## Critical Questions: 
+
+How can complex ideas be visualized?  
+
+Can ideas be connected back to the media that influenced them?   
+
+Do algorithms’ feature maps relate ideas similarly to humans? 
 
 
 ## Problem Statement: 
@@ -28,13 +36,7 @@ AI, Machine-Learning, Data Visualization, Arts & Culture, Human-centered design.
 These themes guide the design and execution of our project, ensuring a comprehensive approach to understanding connections in human experience. 
 
  
-## Critical Questions: 
 
-How can complex ideas be visualized?  
-
-Can ideas be connected back to the media that influenced them?   
-
-Do algorithms’ feature maps relate ideas similarly to humans? 
 
 
 --- 
