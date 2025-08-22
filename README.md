@@ -8,13 +8,17 @@ Original Project Presentation for Tufts University EM212 Applied Data Science: h
 
 ## Intro
 
-For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment of the book reviews they were matched with an image and placed in a 3D map using an open-source visualization toolkit.  The primary dataset will focus on real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads. This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text.  It is important to note that due to the scope/timeframe of the class, the project was not completed.
+For this project, AI was used to create tags for book reviews based on the sentiments in the review. Based on the sentiment-tag, the reviews would be matched with an image and placed in a 3D map using an open-source visualization toolkit. The primary dataset contained real reviews of "To Kill A Mockingbird" (TKAM) by Harper Lee, sourced from Goodreads (https://www.goodreads.com/). This targeted selection allows for concentrated analysis of reader feedback and thematic connections within the text. Later, the project can expand to include other datasets. It is important to note that due to the scope/timeframe of the class, the project was not completed.
 
 
 ## Problem Statement: 
 
 To train AI to match photos with reactions to literature and place these matches in digital space. The inputs are images and book comments, and the output are spatial correlations on a map.  
-**Goals:** To understand connections in human experience, build a local LLM, create art through interactive digital visualization. 
+
+**Goals:** 
+- To understand connections in human experience
+- To build a local LLM
+- To create art through interactive digital visualization
  
 
 ## Key Themes:  
@@ -54,7 +58,7 @@ Data Cleaning:
 - Wrote R code to extract the TKAM reviews into an isolated dataset (attached).
    
 Tagging: 
-- ChatGPT-4 was used to create tagging system for the dataset.
+- ChatGPT-4 was used to create tagging system for the dataset with a detailed prompt.
 - For next steps, the tags need refinement for more accuracy. For example, in the first attempt, one review was clearly disappointed with the book and the LLM tagged it with “positive sentiment.” For the future, a code can be written to isolate one book review at a time, feed each individual review into our local LLM so that it can better interpret the themes, nouns, ideas, and emotional cues from the individual review. We hypothesize that isolating each quote will create a more accurate tagging index by the LLM.  
 
  
